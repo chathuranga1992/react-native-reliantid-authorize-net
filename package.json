@@ -15,6 +15,6 @@
   "author": "Peter Machowski <peter@reliantid.com>",
   "license": "MIT",
   "peerDependencies": {
-    "react-native": "^0.57.0"
+    "react-native": "^0.68.2"
   }
 }
